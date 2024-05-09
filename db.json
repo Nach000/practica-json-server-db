@@ -1,0 +1,70 @@
+{
+  "profesores": [
+    {
+      "nombre": "Juan",
+      "apellido": "Alzamendi",
+      "materias": [
+        {
+          "nombre": "ingles"
+        },
+        {
+          "nombre": "matematica"
+        }
+      ],
+      "id": "2895"
+    },
+    {
+      "id": "ab5a"
+    },
+    {
+      "id": "0baf",
+      "nombre": "marta",
+      "apellido": "Alzamendi",
+      "materias": [
+        {
+          "nombre": "biologia"
+        },
+        {
+          "nombre": "frances"
+        },
+        {
+          "nombre": "fisica"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "maria",
+      "apellido": "rodriguez",
+      "promedio": 8.7,
+      "id": "8be7"
+    },
+    {
+      "nombre": "Jose",
+      "apellido": "Peralta",
+      "promedio": 7.9,
+      "id": "535b"
+    }
+  ],
+  "materias": [
+    {
+      "nombre": "ingles",
+      "duracion": "1 año",
+      "dificultad": "facil",
+      "id": "3cc1"
+    },
+    {
+      "nombre": "matematicas",
+      "duracion": "2 año",
+      "dificultad": "intermedia",
+      "id": "8269"
+    },
+    {
+      "nombre": "fisica",
+      "duracion": "3 año",
+      "dificultad": "avanzada",
+      "id": "9599"
+    }
+  ]
+}
